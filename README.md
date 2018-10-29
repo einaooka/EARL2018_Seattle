@@ -1,15 +1,13 @@
-# EARL2018_Seattle
+# EARL Seattle 2018 
 The Enterprise Applications of the R Language Conference @Seattle
 
 [Website](https://earlconf.com/2018/seattle/)
 
-[Program schedule](...)
+[Program schedule](https://earlconf.com/_downloads/Agenda%20-%20EARL%20Seattle%202018.pdf)
 
 ## My Session
 
-Date Time: TBD
-
-Room: TBD
+Date Time: 7 November 2018, 2:00pm – 2:30pm
 
 ### ABSTRACT
 __Doing Data Science Right in Excel-Pervasive Electric Utilities__
